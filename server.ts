@@ -2,7 +2,7 @@
 const http = require("http");
 
 // vars
-const PORT = 3000;
+const PORT: number = 3000;
 
 // 
 // request and response parameter, handle the "request" to and the "response" from, our server
